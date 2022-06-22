@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1632109758 source:c:\users\omar gallardo\desktop\ejecutable\main.c
+	<allegro.h>
+	<winalleg.h>
+	<windows.h>
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<string.h>
+
+1632106469 source:c:\users\omar gallardo\desktop\ejecutable\recurso.rc
+
+1632107724 source:c:\users\omar gallardo\desktop\ejecutable\icono.rc
+
+1632106158 source:c:\users\omar\desktop\ejecutable\main.c
+	<allegro.h>
+	<winalleg.h>
+	<windows.h>
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<string.h>
+
+1632102869 source:c:\users\omar\desktop\ejecutable\recurso.rc
+
